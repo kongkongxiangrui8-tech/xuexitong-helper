@@ -57,6 +57,7 @@
 
 ## 说明
 
-- 本脚本基于原作者 **aajddjkfkfke** 的脚本修改，本版本由 **kongxiangrui,ciallo(∠・ω)⌒☆** 修订署名。
+- 本脚本基于 [aajddjkfkfke/xuexitong-zidong-shuake-jiaoben](https://github.com/aajddjkfkfke/xuexitong-zidong-shuake-jiaoben) 修改，上游以 **MIT License** 发布（Copyright (c) 2026 aajddjkfkfke）。
+- 本版本由 **kongxiangrui,ciallo(∠・ω)⌒☆** 维护，同样以 MIT License 发布，详见 [LICENSE](LICENSE)。
 - 本地校验不保证 AI 正确率或服务器保存成功，提交前请查看日志。
 - 仅供学习交流，使用风险自负，请遵守所在平台的使用条款。
